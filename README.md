@@ -1,4 +1,4 @@
-# github-contributing-guide-slides
+# github-contributing-guide
 
 Slides providing overview of contributing with teams to GitHub repos.
 
