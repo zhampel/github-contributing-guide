@@ -26,10 +26,10 @@ A:
 - [ ] Checked
 
 ## FM
-Q: How many Mi Familia tortillas you can eat in a single sitting? 1 dozen
-A:
-- [x] Not checked
-- [ ] Checked
+Q: How many Mi Familia tortillas you can eat in a single sitting? 
+A: 1 dozen
+- [] Not checked
+- [x] Checked
 
 ## VS
 Q: What's the tiniest thing you've ever cooked? Largest?
