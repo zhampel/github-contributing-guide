@@ -21,8 +21,8 @@ A:
 
 ## MB
 Q: Your favorite coffee comes from where?  
-A: Colombia, obviously
-- [] Not checked
+A: Sierra Nevada de Santa Marta, Colombia :)
+- [ ] Not checked
 - [x] Checked
 
 ## FM
