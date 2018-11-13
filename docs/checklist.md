@@ -10,8 +10,8 @@ A: Coconut Pouchong
 ## ML
 Q: Salsa, tequila, corazon, cerveza: ¿muy bueno?
 A: Guacamole, Jalapenho, Salma Hayek, Ricky Martein, Muy Bueno!
-- [x] Not checked
-- [ ] Checked
+- [ ] Not checked
+- [x] Checked
 
 ## PG
 Q: What's your optimal molar concetration of Emergen-C?
@@ -28,7 +28,7 @@ A:
 ## FM
 Q: How many Mi Familia tortillas you can eat in a single sitting? 
 A: 1 dozen
-- [] Not checked
+- [ ] Not checked
 - [x] Checked
 
 ## VS
