@@ -33,6 +33,6 @@ A: 1 dozen
 
 ## VS
 Q: What's the tiniest thing you've ever cooked? Largest?
-A:
-- [x] Not checked
-- [ ] Checked
+A: An egg and a turkey!
+- [ ] Not checked
+- [X] Checked
