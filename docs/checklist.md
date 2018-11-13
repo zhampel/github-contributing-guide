@@ -4,8 +4,8 @@ Everything for testing out collaborative git command sequences!
 ## NL
 Q: What's your favorite cup of tea?
 A: Coconut Pouchong 
-- [x] Not checked
-- [ ] Checked
+- [ ] Not checked
+- [x] Checked
 
 ## ML
 Q: Salsa, tequila, corazon, cerveza: ¿muy bueno?
